@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 2023Spring Online Book:  
 *operating system*: https://pages.cs.wisc.edu/~remzi/OSTEP/  
-中文版：https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/chinese
+中文版：https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/chinese   
 *deep learning*: https://www.deeplearningbook.org/  
 *动手学深度学习*: https://zh-v2.d2l.ai/  
