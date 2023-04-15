@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouziyiaichifeiniu)](https://github.com/anuraghazra/github-readme-stats)
 
-2023Spring Online Book:  
+Online Book:  
+*线性代数*: https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
 *operating system*: https://pages.cs.wisc.edu/~remzi/OSTEP/  
-中文版：https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/chinese   
+*中文版*：https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/chinese   
 *deep learning*: https://www.deeplearningbook.org/  
 *动手学深度学习*: https://zh-v2.d2l.ai/  
